@@ -1,0 +1,10 @@
+[{"id":1, "org":"机构1", "name":"渠道1", "username":"username1", "password":"pwd1", "url":"url1", "priority":1, "valid":1},
+{"id":2, "org":"机构1", "name":"渠道2", "username":"username2", "password":"pwd2", "url":"url2", "priority":2, "valid":1},
+{"id":3, "org":"机构2", "name":"渠道3", "username":"username3", "password":"pwd3", "url":"url3", "priority":1, "valid":1},
+{"id":4, "org":"机构2", "name":"渠道4", "username":"username4", "password":"pwd4", "url":"url4", "priority":2, "valid":1},
+{"id":5, "org":"机构3", "name":"渠道5", "username":"username5", "password":"pwd5", "url":"url5", "priority":1, "valid":1},
+{"id":6, "org":"机构3", "name":"渠道6", "username":"username6", "password":"pwd6", "url":"url6", "priority":2, "valid":1},
+ {"id":7, "org":"机构3", "name":"渠道7", "username":"username7", "password":"pwd7", "url":"url7", "priority":3, "valid":1},
+{"id":8, "org":"公共", "name":"渠道8", "username":"username8", "password":"pwd8", "url":"url8", "priority":1, "valid":1},
+{"id":9, "org":"公共", "name":"渠道9", "username":"username9", "password":"pwd9", "url":"url9", "priority":2, "valid":0},
+{"id":10, "org":"公共", "name":"渠道10", "username":"username10", "password":"pwd10", "url":"url10", "priority":3, "valid":0}]

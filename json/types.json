@@ -1,0 +1,6 @@
+[{"id":1, "name":"注册验证码", "content":"默认注册验证码模板内容", "valid":1},
+{"id":2, "name":"重置密码", "content":"默认重置密码模板内容", "valid":1},
+ {"id":3, "name":"注册成功", "content":"默认注册成功模板内容", "valid":1},
+ {"id":4, "name":"类型4", "content":"默认类型4模板内容", "valid":1},
+ {"id":5, "name":"类型5", "content":"默认类型5模板内容", "valid":0}
+]

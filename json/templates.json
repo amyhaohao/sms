@@ -1,0 +1,11 @@
+[{"id":1, "channel":"渠道1", "type":"注册验证码", "content":"内容1"},
+ {"id":2, "channel":"渠道1", "type":"重置密码", "content":"内容2"},
+ {"id":3, "channel":"渠道1", "type":"注册成功", "content":"内容3"},
+ {"id":4, "channel":"渠道2", "type":"注册验证码", "content":"内容4"},
+ {"id":5, "channel":"渠道2", "type":"重置密码", "content":"内容5"},
+ {"id":6, "channel":"渠道2", "type":"注册成功", "content":"内容6"},
+ {"id":7, "channel":"渠道3", "type":"重置密码", "content":"内容7"},
+ {"id":8, "channel":"渠道4", "type":"注册验证码", "content":"内容8"},
+ {"id":9, "channel":"渠道5", "type":"重置密码", "content":"内容9"},
+ {"id":10, "channel":"渠道5", "type":"注册成功", "content":"内容10"}
+]

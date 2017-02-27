@@ -1,0 +1,8 @@
+[{"name":"","type":"0", "org":"-", "valid":1},
+ {"name":"用户1","type":"0", "org":"-", "valid":1},
+{"name":"用户2","type":"1", "org":"-", "valid":1},
+ {"name":"用户3","type":"1", "org":"-", "valid":1},
+ {"name":"用户4","type":"2", "org":"机构1", "valid":1},
+{"name":"用户5","type":"2", "org":"机构2", "valid":1},
+{"name":"用户6","type":"2", "org":"机构3", "valid":1},
+{"name":"用户7","type":"2", "org":"机构4", "valid":1}]

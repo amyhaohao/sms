@@ -1,0 +1,3 @@
+[{"name":"机构1","id":1001, "prefix":"app1", "channel":0, "valid":1},
+ {"name":"机构2","id":1002, "prefix":"app2", "channel":1, "valid":1},
+ {"name":"机构3","id":1003, "prefix":"app3", "channel":2, "valid":0}]
